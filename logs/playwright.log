@@ -3,3 +3,228 @@
   C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
 
 21:39:19.712 [main] INFO  PlaywrightTest - ========== Starting Test Setup ==========
+20:09:30.537 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+20:09:30.697 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+20:33:55.742 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+20:33:55.864 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+20:37:41.655 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+20:37:41.746 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+20:40:59.390 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+20:43:52.131 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+20:43:52.348 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+20:45:12.420 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+20:45:12.649 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+20:47:32.745 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+20:47:32.942 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+20:51:41.473 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+20:51:41.686 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+21:08:35.345 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+21:08:35.556 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+21:11:20.465 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+21:11:20.679 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+21:12:53.613 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+21:12:53.825 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+21:17:14.183 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+21:17:14.389 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+21:18:22.209 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+21:18:22.419 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+21:21:18.860 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+21:21:19.070 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+21:24:59.395 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+21:24:59.620 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+21:26:39.214 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+21:26:39.437 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+21:27:50.196 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+21:27:50.419 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+21:30:25.641 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+21:30:25.863 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+21:33:16.489 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+21:33:16.706 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+21:33:58.236 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+21:33:58.438 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+21:35:00.222 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+21:35:00.439 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+21:36:23.152 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+21:36:23.361 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+21:43:24.168 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+21:43:24.384 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+21:46:52.787 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+21:46:53.121 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+21:47:42.899 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+21:47:43.088 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+06:50:01.722 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+06:50:01.903 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+06:56:21.622 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+06:56:21.838 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+07:02:29.043 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+07:02:29.238 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+07:05:04.615 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+07:05:04.823 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+07:06:22.261 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+07:06:22.507 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+07:14:32.119 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+07:14:32.247 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+07:18:09.251 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+07:18:09.382 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+07:19:25.866 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+07:19:26.011 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+07:23:59.106 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+07:23:59.234 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+07:26:38.569 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+07:26:38.700 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+07:29:23.132 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+07:29:23.265 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+07:37:13.466 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+07:37:13.594 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+07:40:33.148 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+07:40:33.286 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+07:41:25.133 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+07:41:25.266 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+07:41:50.218 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+07:41:50.362 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+07:43:10.254 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+07:43:10.389 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+07:51:11.012 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+07:51:11.224 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+07:53:10.724 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+07:53:10.936 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+07:57:08.993 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+07:57:09.191 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+08:04:11.514 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+08:04:11.717 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+08:08:18.551 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+08:08:18.781 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+08:23:12.836 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+08:23:13.040 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+08:41:30.074 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+08:41:30.262 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+08:45:57.355 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+08:45:57.593 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+08:47:36.376 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+08:47:36.571 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+08:49:35.686 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+08:49:36.055 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+08:50:59.254 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+08:50:59.447 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+08:56:21.931 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+08:56:22.154 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+08:59:48.282 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+08:59:48.506 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+09:01:06.673 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+09:01:06.878 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+09:01:25.047 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+09:01:25.303 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+09:02:31.977 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+09:02:32.181 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+

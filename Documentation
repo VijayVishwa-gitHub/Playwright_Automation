@@ -1,0 +1,15 @@
+Code push commands:
+
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/your-username/your-repo.git
+git branch -M main
+git push -u origin main
+
+
+2. try-with-resources  -- when try is used, java automatically handles the catch part and no need to write the close portion
+
+page.close();       // Close the tab
+browser.close();    // Close the browser
+playwright.close(); // Shut down Playwright engine

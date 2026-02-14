@@ -3,8 +3,7 @@
 <suite name="Playwright Automation Suite" parallel="false">
     <test name="Playwright Basic Tests">
         <classes>
-            <class name="PlaywrightTest"/>
+            <class name="tests.LoginTest"/>
         </classes>
     </test>
 </suite>
-
