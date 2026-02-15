@@ -6,33 +6,73 @@ import utils.WaitUtil;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.regex.Pattern;
 
 import static com.microsoft.playwright.assertions.PlaywrightAssertions.assertThat;
 
 public class LoginPage {
     private static final Logger logger = Logger.getLogger(LoginPage.class.getName());
     private final Page page;
-
     public LoginPage(Page page) {
         this.page = page;
     }
 
-    public void demo(String searchLocation, String selector, String expected) {
+
+    public void selectFromCity(String searchLocation, String selector, String expected) {
         page.mouse().click(10, 10);
         try {
             Locator fromCityLabel = page.locator("//label[@for='fromCity']");
             fromCityLabel.click();
             WaitUtil.waitForPageLoad(page);
 
-            handlingFromCity(searchLocation, selector, expected);
+            handlingCity(searchLocation, selector, expected);
 
         } catch (Exception e) {
             logger.log(Level.SEVERE, "Demo test failed", e);
             throw new RuntimeException("Test execution failed", e);
         }
     }
+    public void selectToCity(String searchLocation, String selector, String expected){
+        page.mouse().click(10, 10);
+        try {
+            Locator fromCityLabel = page.locator("//input[@id='toCity']");
+            fromCityLabel.click();
+            WaitUtil.waitForPageLoad(page);
 
-    public void handlingFromCity(String input, String selector, String expectedSuggestion) {
+            handlingCity(searchLocation, selector, expected);
+
+        } catch (Exception e) {
+            logger.log(Level.SEVERE, "Demo test failed", e);
+            throw new RuntimeException("Test execution failed", e);
+        }
+    }
+    public void validateHeaderMenuTabs(){
+
+        Locator tabs = page.locator("//ul[@class='makeFlex font12 headerIconsGap']/li");
+
+        int count = tabs.count();
+        for (int i = 0; i < count; i++) {
+            page.mouse().click(10, 10);
+            Locator currentTab = tabs.nth(i).locator("a");
+            System.out.println(currentTab.textContent());
+            currentTab.click();
+
+
+            // Assert current tab is active
+            assertThat(currentTab).hasClass(Pattern.compile(".*active.*"));
+
+            // Validate all other tabs are NOT active
+            for (int j = 0; j < count; j++) {
+                if (i == j) continue;
+                Locator otherTab = tabs.nth(j).locator("a");
+                assertThat(otherTab).not().hasClass(Pattern.compile(".*active.*"));
+            }
+        }
+
+    }
+
+
+    public void handlingCity(String input, String selector, String expectedSuggestion) {
 
         Locator inputField = page.locator(selector);
         inputField.fill(input);

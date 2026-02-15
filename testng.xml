@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
 <suite name="Playwright Automation Suite" parallel="false">
-    <test name="Playwright Basic Tests">
+    <test name="Verify Header Menu">
         <classes>
-            <class name="tests.LoginTest"/>
+            <class name="tests.LoginTest">
+                <methods>
+                    <include name="verifyHeaderMenuTabs"/>
+                </methods>
+            </class>
         </classes>
     </test>
 </suite>
+

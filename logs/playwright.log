@@ -228,3 +228,59 @@
 09:02:32.181 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
 
+08:17:45.528 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+08:17:45.759 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+08:21:31.270 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+08:21:31.484 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+08:24:25.794 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+08:24:25.999 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+08:34:46.960 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+08:34:47.181 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+08:41:51.173 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+08:41:51.379 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+08:46:53.898 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+08:46:54.122 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+08:48:02.107 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+08:48:02.337 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+09:00:27.602 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+09:00:27.834 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+09:02:51.911 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+09:02:52.162 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+09:41:30.524 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+09:41:30.749 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+09:43:52.112 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+09:43:52.368 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+09:44:55.909 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+09:44:56.125 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+10:02:13.124 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+10:02:13.353 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+10:03:41.620 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+10:03:41.856 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
