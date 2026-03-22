@@ -284,3 +284,73 @@
 10:03:41.856 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
 
+14:58:27.079 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+15:01:42.572 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+15:02:31.076 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+15:05:08.368 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+15:05:08.526 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\IdeaProjects\Playwright_Automation\testng.xml
+
+15:10:30.169 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+15:11:32.024 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+15:27:35.842 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+15:43:41.957 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+15:44:32.020 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+15:46:22.841 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+15:48:24.330 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+15:52:40.780 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+15:54:16.580 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+15:56:52.476 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+16:10:57.391 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+16:11:36.513 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+16:12:07.327 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+16:12:45.751 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+16:23:30.960 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+16:24:39.346 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+16:25:17.625 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+16:32:46.773 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+16:33:22.156 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VijayBala\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+

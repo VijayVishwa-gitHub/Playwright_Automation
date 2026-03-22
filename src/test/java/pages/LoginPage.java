@@ -13,33 +13,46 @@ import static com.microsoft.playwright.assertions.PlaywrightAssertions.assertTha
 public class LoginPage {
     private static final Logger logger = Logger.getLogger(LoginPage.class.getName());
     private final Page page;
+
+    // Locators (instance-based)
+    private final Locator fromInputBox;
+    private final Locator toInputBox;
+    private final Locator fromCityLabel;
+    private final Locator toCityLabel;
+    private final Locator tabs;
+
     public LoginPage(Page page) {
         this.page = page;
+        /* HOmePage Locators */
+        this.fromInputBox = page.locator("input[placeholder='From']");
+        this.toInputBox = page.locator("input[placeholder='To']");
+        this.fromCityLabel = page.locator("//label[@for='fromCity']");
+        this.toCityLabel = page.locator("#toCity");
+        this.tabs = page.locator("//ul[contains(@class,'headerIconsGap')]/li");
     }
 
 
-    public void selectFromCity(String searchLocation, String selector, String expected) {
+    /* HOmePage Related Methods */
+    public void selectFromCity(String searchLocation, String expected) {
         page.mouse().click(10, 10);
         try {
-            Locator fromCityLabel = page.locator("//label[@for='fromCity']");
             fromCityLabel.click();
             WaitUtil.waitForPageLoad(page);
-
-            handlingCity(searchLocation, selector, expected);
+            handlingCity(searchLocation, fromInputBox, expected);
 
         } catch (Exception e) {
             logger.log(Level.SEVERE, "Demo test failed", e);
             throw new RuntimeException("Test execution failed", e);
         }
     }
-    public void selectToCity(String searchLocation, String selector, String expected){
+    public void selectToCity(String searchLocation, String expected){
         page.mouse().click(10, 10);
         try {
-            Locator fromCityLabel = page.locator("//input[@id='toCity']");
-            fromCityLabel.click();
+
+            toCityLabel.click();
             WaitUtil.waitForPageLoad(page);
 
-            handlingCity(searchLocation, selector, expected);
+            handlingCity(searchLocation, toInputBox, expected);
 
         } catch (Exception e) {
             logger.log(Level.SEVERE, "Demo test failed", e);
@@ -47,8 +60,6 @@ public class LoginPage {
         }
     }
     public void validateHeaderMenuTabs(){
-
-        Locator tabs = page.locator("//ul[@class='makeFlex font12 headerIconsGap']/li");
 
         int count = tabs.count();
         for (int i = 0; i < count; i++) {
@@ -72,10 +83,10 @@ public class LoginPage {
     }
 
 
-    public void handlingCity(String input, String selector, String expectedSuggestion) {
+    /* Helper Methods */
+    public void handlingCity(String input, Locator selector, String expectedSuggestion) {
 
-        Locator inputField = page.locator(selector);
-        inputField.fill(input);
+        fillInputFieldWithRetry(selector, input, "Entering City" );
 
         Locator suggestionText = page.locator("(//div[@class='revampedSuggestionHeader'])[1]//span");
         suggestionText.waitFor();
@@ -87,19 +98,18 @@ public class LoginPage {
         ).isVisible();
 
         System.out.println("Suggestion: " + suggestionText.textContent());
-        inputField.fill("");
+
     }
-
-
-    private void fillInputFieldWithRetry(String selector, String value, String actionName) {
+    public void fillInputFieldWithRetry(Locator selector, String value, String actionName) {
         boolean success = WaitUtil.retryAction(
-            actionName + " '" + value + "'",
-            () -> page.locator(selector).fill(value),
-            3
+                actionName + " '" + value + "'",
+                () -> selector.fill(value),
+                3
         );
 
         if (!success) {
             throw new RuntimeException("Failed to fill input field after retries: " + selector);
         }
     }
+
 }
